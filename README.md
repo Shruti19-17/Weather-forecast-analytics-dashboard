@@ -55,8 +55,8 @@ The dashboard provides a consolidated view of:
 The main objective of this project is to transform raw weather forecast data into an interactive and easy-to-understand dashboard that can support quick weather analysis and decision-making.
 
 
-## Project
-file:///C:/Users/MCS/OneDrive/Documents/Project/Weather%20Dashboard/weather%20dashboard.pdf
+## Dashboard
+
 
 ## 👩‍💻 Author
 

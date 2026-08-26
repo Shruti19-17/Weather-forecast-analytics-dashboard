@@ -56,6 +56,7 @@ The main objective of this project is to transform raw weather forecast data int
 
 
 ## Dashboard
+https://github.com/Shruti19-17/Weather-forecast-analytics-dashboard/blob/main/weather%20dashboard.pdf
 
 
 ## 👩‍💻 Author
